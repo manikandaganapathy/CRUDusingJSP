@@ -20,7 +20,7 @@
              
             <tr>
                 <td>Number</td>
-                <td><input type="text" name="number" value="<%=res.getString("num")%>"/></td>
+                <td><input type="text" readonly name="number" value="<%=res.getString("num")%>"/></td>
             </tr>
             <tr>
                 <td>From</td>

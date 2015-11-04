@@ -3,10 +3,21 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/manik_000/Documents/NetBeansProjects/KaarTechnologiesDemo/src/java/controller/ValidateLogin.java</file>
-            <file>file:/C:/Users/manik_000/Documents/NetBeansProjects/KaarTechnologiesDemo/web/footer.jsp</file>
             <file>file:/C:/Users/manik_000/Documents/NetBeansProjects/KaarTechnologiesDemo/web/index.jsp</file>
+            <file>file:/C:/Users/manik_000/Documents/NetBeansProjects/KaarTechnologiesDemo/web/userlogged.jsp</file>
+            <file>file:/C:/Users/manik_000/Documents/NetBeansProjects/KaarTechnologiesDemo/web/editdata.jsp</file>
+            <file>file:/C:/Users/manik_000/Documents/NetBeansProjects/KaarTechnologiesDemo/src/java/view/DisplayData.java</file>
             <file>file:/C:/Users/manik_000/Documents/NetBeansProjects/KaarTechnologiesDemo/src/java/service/InsertData.java</file>
+            <file>file:/C:/Users/manik_000/Documents/NetBeansProjects/KaarTechnologiesDemo/web/search.jsp</file>
+            <file>file:/C:/Users/manik_000/Documents/NetBeansProjects/KaarTechnologiesDemo/web/logout.jsp</file>
+            <file>file:/C:/Users/manik_000/Documents/NetBeansProjects/KaarTechnologiesDemo/src/java/dao/DBConnection.java</file>
+            <file>file:/C:/Users/manik_000/Documents/NetBeansProjects/KaarTechnologiesDemo/web/error.jsp</file>
+            <file>file:/C:/Users/manik_000/Documents/NetBeansProjects/KaarTechnologiesDemo/src/java/service/UpdateData.java</file>
+            <file>file:/C:/Users/manik_000/Documents/NetBeansProjects/KaarTechnologiesDemo/src/java/service/EditRecord.java</file>
+            <file>file:/C:/Users/manik_000/Documents/NetBeansProjects/KaarTechnologiesDemo/web/displaydata.jsp</file>
+            <file>file:/C:/Users/manik_000/Documents/NetBeansProjects/KaarTechnologiesDemo/web/searchresult.jsp</file>
+            <file>file:/C:/Users/manik_000/Documents/NetBeansProjects/KaarTechnologiesDemo/src/java/service/DeleteRecord.java</file>
+            <file>file:/C:/Users/manik_000/Documents/NetBeansProjects/KaarTechnologiesDemo/src/java/service/SearchRecord.java</file>
             <file>file:/C:/Users/manik_000/Documents/NetBeansProjects/KaarTechnologiesDemo/src/java/service/CreateDB.java</file>
         </group>
     </open-files>

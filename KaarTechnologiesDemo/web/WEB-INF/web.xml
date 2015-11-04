@@ -32,6 +32,10 @@
         <servlet-name>CreateDB</servlet-name>
         <servlet-class>service.CreateDB</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>SearchRecord</servlet-name>
+        <servlet-class>service.SearchRecord</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>InsertData</servlet-name>
         <url-pattern>/InsertData</url-pattern>
@@ -63,6 +67,10 @@
     <servlet-mapping>
         <servlet-name>CreateDB</servlet-name>
         <url-pattern>/CreateDB</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>SearchRecord</servlet-name>
+        <url-pattern>/SearchRecord</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
